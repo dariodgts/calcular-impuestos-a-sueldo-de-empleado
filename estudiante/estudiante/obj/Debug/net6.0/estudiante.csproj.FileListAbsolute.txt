@@ -1,0 +1,15 @@
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\bin\Debug\net6.0\estudiante.exe
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\bin\Debug\net6.0\estudiante.deps.json
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\bin\Debug\net6.0\estudiante.runtimeconfig.json
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\bin\Debug\net6.0\estudiante.dll
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\bin\Debug\net6.0\estudiante.pdb
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.dll
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\refint\estudiante.dll
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.pdb
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\estudiante.genruntimeconfig.cache
+C:\Users\Equipo\Desktop\proyectoc#\estudiante\estudiante\obj\Debug\net6.0\ref\estudiante.dll

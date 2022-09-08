@@ -1,0 +1,8 @@
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\bin\Debug\flouro.exe.config
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\bin\Debug\flouro.exe
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\bin\Debug\flouro.pdb
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\obj\Debug\flouro.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\obj\Debug\flouro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\obj\Debug\flouro.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\obj\Debug\flouro.exe
+C:\Users\Equipo\Desktop\proyectoc#\flouro\flouro\obj\Debug\flouro.pdb
