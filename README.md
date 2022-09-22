@@ -5,7 +5,7 @@ en la carpeta geometria haz clic derecho sobre ella si esta en windows y si tu t
 "abrir con visual studio" y una vez te abra el proyecto con visual studio, haz clic en "ejecutar" espera a que se ejecute e introducele datos segun te pide el programa.
 
 Esta es una aplicacion de consola en donde una vez compilado el programa, podras introducir datos por teclado, para calcular un sueldo de un empleado, introduciendo su sueldo base y nombre del empleado.Una vez introducidos esos datos,el programa mostrara por pantalla el nombre del empleado y  los impuestos 
- que tiene que pagar o si esta exento de impuestos, lo determinara automaticamente, con solo obtener el sueldo base. 
+ que tiene que pagar o si esta exento de impuestos, lo determinara automaticamente, con solo obtener su sueldo base. 
  
  NOTA
  "el impuesto sera calculado segun el monto que gane el empleado como sueldo base, luego 
